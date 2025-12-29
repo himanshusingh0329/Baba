@@ -11,7 +11,7 @@ variable "location" {
 }
 
 variable "resource_group_name" {
-  description = "Name of the resource group"
+  description = "Himanshu Singh JIRA-3033"
   type        = string
   default     = "demo-rg"
 }
